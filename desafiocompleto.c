@@ -3,7 +3,7 @@
 int main(){
  int pontos;
  double populacao, area, pib;
- char cidade[30], estado[20], codigo[5];     
+ char cidade[30], estado[20], codigo[4];     
 
  printf("Digite o nome do seu estado: \n");
  scanf("%s", &estado);
